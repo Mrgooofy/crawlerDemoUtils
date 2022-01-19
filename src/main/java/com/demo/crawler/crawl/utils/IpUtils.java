@@ -9,7 +9,7 @@ import java.net.UnknownHostException;
 /**
  * get ip utils
  * 
- * @author yunyan
+ * @author
  */
 public class IpUtils
 {
